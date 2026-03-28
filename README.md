@@ -128,7 +128,3 @@ COFFEE      = "Black, like the mempool at 3am"
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=0x8spider&color=00ff41&style=flat-square&label=VISITORS)
-
-</div>
-
-Tinggal copy semua teks di atas, paste ke file `README.md` di repo `0x8spider` lo! 🕷️
