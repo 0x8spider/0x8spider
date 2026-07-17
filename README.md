@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🕷️ 0x8spider
+# 🕷️ speed.eth
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Security+Enthusiast;Coding+in+the+Dark+%F0%9F%95%B8%EF%B8%8F;Building+Something+Amazing..." alt="Typing SVG" />
 
@@ -38,7 +38,7 @@
 ```bash
 $ cat /etc/0xspider.conf
 
-NAME        = "0xspider"
+NAME        = "speed.eth"
 ALIAS       = "Majorstar_"
 MISSION     = "Navigate the decentralized web"
 STATUS      = "Active — hunting testnets & airdrops"
